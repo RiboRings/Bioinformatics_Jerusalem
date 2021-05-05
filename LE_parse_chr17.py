@@ -58,3 +58,7 @@ gene_sequences.append(last_gene)
 
 gene_data = dict(zip(gene_names, gene_sequences))
 # print(gene_data)
+
+listok = [1, 2, 3, 4, 5, 6, 7, 8]
+
+print(listok[:-1])
